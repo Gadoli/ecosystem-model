@@ -8,7 +8,7 @@ from math import pi, cos, sin, acos, sqrt
 """
 Map.beings_list est une liste contenant tous
 les individus Being, sa longueur est donc de quelques milliers.
-Chaque objet Being contient plusieurs paramètres : move_range,
+Chaque objet Being contient plusieurs parametres : move_range,
 satiation, type_id etc.
 
 Pour optimiser le programme nous utiliserons beings_map:
