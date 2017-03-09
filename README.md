@@ -44,5 +44,17 @@ Lors de cette séance nous avons décidé que ce soir chez nous, nous ferions to
  * ajouté une fonction qui fait les meusures (measurement.py)
  * implementé des algorithmes pour trouver des bonnes parametres initiales
  * trouvé un article qui traite le même sujet que notre projet d'ARE
+ * Ajout des commentaires à being.py
  
 On continue de faire les tests selon les paramètres afin d'affiner/trouvrer les paramètres idéal pour obtenir un ecosytème stable.
+
+## Semaine 3 : 
+ *(séance du 09/03/2017)*
+ 
+  Ajout d'une fonctionnalité de maladie
+  Ajout d'une fonctionnalité de mort de veilliesse
+  Ajout d'un dictionnaire de list pour obtenir des statistiques
+  Ajout de commentaire à map.py
+  
+  
+  
